@@ -1,0 +1,59 @@
+__Changelog__ **V1.3.9c**
+```fix
+- Core changes.
+- Added massive help commands list. Show with !cmds.
+```
+__Changelog__ **V1.3.8**
+```fix
+- Added "Jukebot" reactions. Now reacts with a certain number of O's.
+```
+__Changelog__ **V1.3.7**
+```fix
+- Added !catfacts.
+```
+__Changelog__ **V1.3.6c**
+```fix
+- Removed !rcc.
+- Added !playnext.
+- Fixed a rare queuing error.
+```
+__Changelog__ **V1.3.5**
+```fix
+- Added the !dissaproval command.
+- Changed the !vern command.
+- Changed the !david command. Now clears all songs from the queue.
+- Changed the !stop command's description. Now clearer on the usage.
+- Changed the !destroy command's permissions. Must be owner.
+```
+__Changelog__ **V1.3.4c**
+```fix
+- Security patches.
+- Added !vern command.
+```
+__Changelog__ **V1.3.3**
+```fix
+- Basic fixes to update checking.
+- Set-ups for hopefully easier updating in the future.
+- String updates.
+```
+__Changelog__ **V1.3.2c**
+```fix
+- Jukebot will now check for updates!
+- Playlist queuing has been revamped and updated.
+- Playlist queuing is now slightly faster.
+- Music queue has been updated. The queue will now never need to be started. If there is music, it will be played. Eventually.
+```
+__Changelog__ **V1.3.0**
+```fix
+- Core feature added, commands that are executed incorrectly are now given an error.
+- Basic grammer fixes and changes.
+```
+__Changelog__ **V1.2.5**
+```fix
+- Updated music - Songs that are played are now removed from the queue.
+- Queue search now successfully restarts the queue.
+- Queue now successfully restarts without additional commands.
+- !AwkwardSpyro command has been added.
+- !David command has been added.
+- Misc fixes and improvements.
+```
