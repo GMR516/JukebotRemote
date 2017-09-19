@@ -61,5 +61,5 @@ echo "Running Jukebot"
 cd "$root/Jukebot"
 dotnet run --configuration Release
 cd "$root"
-bash jukebotdownload.sh
+bash jukebotdownloadv3.sh
 exit 0
