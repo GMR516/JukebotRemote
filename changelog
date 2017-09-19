@@ -1,3 +1,8 @@
+__Changelog__ **V1.4.0c**
+```fix
+- Jukebot can now update automatically.
+- Moved to server. Jukebot will now be online at all times unless he's updating.
+```
 __Changelog__ **V1.3.9c**
 ```fix
 - Core changes.
