@@ -58,8 +58,8 @@ rm -r "$tempdir"
 echo ""
 echo "Installation Complete."
 echo "Running Jukebot"
-cd "$root/Jukebot"
-dotnet run --configuration Release
+cd "$root/Jukebot/bin/Release/netcoreapp1.1/"
+dotnet Jukebot.dll
 cd "$root"
-bash jukebotdownloadv3.sh
+bash jukebotdownloadv4.sh
 exit 0
