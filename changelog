@@ -2,6 +2,7 @@ __Changelog__ **V1.4.0c**
 ```fix
 - Jukebot can now update automatically.
 - Moved to server. Jukebot will now be online at all times unless he's updating.
+- Added !randomcat or !anastasia.
 ```
 __Changelog__ **V1.3.9c**
 ```fix
@@ -51,6 +52,7 @@ __Changelog__ **V1.3.2c**
 __Changelog__ **V1.3.0**
 ```fix
 - Core feature added, commands that are executed incorrectly are now given an error.
+- Added embed builder. Can now embed things.
 - Basic grammer fixes and changes.
 ```
 __Changelog__ **V1.2.5**
