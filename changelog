@@ -5,6 +5,7 @@ __Changelog__ **V1.4.0c & 1.4.1**
 - Jukebot can now update automatically.
 - Moved to server. Jukebot will now be online at all times unless he's updating.
 - Added !randomcat or !anastasia.
+- Added !say or !speak. Allows mods to say stuff through Jukebot.
 ```
 __Changelog__ **V1.3.9c**
 ```fix
